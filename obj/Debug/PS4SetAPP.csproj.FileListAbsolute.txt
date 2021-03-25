@@ -1,0 +1,10 @@
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.Form1.resources
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.Properties.Resources.resources
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\PS4SetAPP\bin\Debug\PS4SetAPP.exe.config
+C:\Users\Daniil\source\repos\PS4SetAPP\bin\Debug\PS4SetAPP.exe
+C:\Users\Daniil\source\repos\PS4SetAPP\bin\Debug\PS4SetAPP.pdb
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.exe
+C:\Users\Daniil\source\repos\PS4SetAPP\obj\Debug\PS4SetAPP.pdb
